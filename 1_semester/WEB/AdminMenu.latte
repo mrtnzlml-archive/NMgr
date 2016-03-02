@@ -1,0 +1,42 @@
+<div id="leve_menu">
+    <p class="title">
+        <a href="{plink :Legacy:LegacyAdmin:default}">Administrace</a>
+    </p>
+
+    <div id="hledani">
+        {control search}
+    </div>
+
+    <ul class="lmenu">
+        {if !$categories}Žádný modul nebyl nalezen.{/if}
+
+        {foreach $categories as $category}
+            {var $subcategories = $category->getSubcategories()}
+            {var $active = $actualCategoryId === $category->getId() || $subcategories->containsKey($actualCategoryId)}
+            <li n:class="count($subcategories) ? submenu, $category->isPublic() ?: hidden, $active ? 'active expanded'">
+                <a href='index.php?idk={$category->getId()}' title='Výpis {$category->getTitle()}'>
+                    {$category->getTitle()}<span class='arrow'></span>
+                </a>
+                {* TODO: addsubvlist (?) *}
+                <ul n:ifcontent>
+                    {foreach $subcategories as $sub}
+                        <li n:class="$sub->isPublic() ?: hidden, $actualCategoryId === $sub->getId() ? active">
+                            <a href='index.php?idk={$sub->getId()}' title='Výpis {$category->getTitle()}'>
+                                {$sub->getTitle()}
+                            </a>
+                        </li>
+                    {/foreach}
+                    {if in_array($category->getCode(), ['clanky', 'eshop', 'katalog', 'katalog1', 'katalog2', 'katalog4', 'faq'])} {* OMG *}
+                        <li class='addCat'>
+                            <a href='insert.php?idk={$category->getId()}&sablona=2' title='Přidat subkategorii'>Nová podkategorie</a>
+                        </li>
+                    {/if}
+                </ul>
+            </li>
+        {/foreach}
+
+        <li n:if="$testCategory" n:class="$actualCategoryId === $testCategory->getId() ? active">
+            <a href="index.php?idk={$testCategory->getId()}">{$testCategory->getTitle()}</a>
+        </li>
+    </ul>
+</div>
