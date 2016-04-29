@@ -1,0 +1,6 @@
+Write an abstract for your final presentation. It should be based on your essay and have around 150 words.
+
+
+
+The main task of this thesis is to solve the real-time communication between the sensory network and the web based application. It is achieved by using standard communications TCP and UDP. The message format in TCP or UDP datagrams is RESP (REdis Serialization Protocol). The main component of this thesis is JavaScript server with Redis database which provides exchanging of information between the end members of the network so called concentrators. This gives us opportunity to send data directly to the database. Concentrators are formed by microcontrollers from STMicroelectronics which are connected to the server via standard network elements and Ethernet. The result is a functional program which was veriﬁed by a practical network connection. Final network is very flexible and it is possible to move network elements without need for changing wired structure. This network is not intended only for buildings but simmilar approach can be implemented in whole cities in form of
+smart grid or between cars.

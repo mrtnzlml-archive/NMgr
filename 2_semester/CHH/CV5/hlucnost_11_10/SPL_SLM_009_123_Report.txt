@@ -1,0 +1,24 @@
+XL2 Sound Level Meter Broadband Reporting:		CHH2016\SPL_SLM_009_123_Report.txt
+------------------------------------------
+
+
+# Hardware Configuration
+	Device Info:    	XL2, SNo. A2A-02094-C0, FW3.02
+	Mic Type:       	NTi Audio M2210, SNo. 1368, User calibrated 2015-12-16  12:34
+	Mic Sensitivity:	21,4 mV/Pa
+
+# Measurement Setup
+	Profile:        	Full mode
+	Append mode:    	OFF
+	Timer mode:     	single
+	Timer set:      	00:00:30
+	k1:             	0,0 dB
+	k2:             	0,0 dB
+	kset Date:      	k-Values not measured (manually adjusted)
+	Range:          	10 - 110 dB
+
+# Broadband Results
+	Start       	          	Stop        	          
+	Date        	Time      	Date        	Time      	LZeq    	LZPKmax 	LZFmax  	LAFmax  	LAeq    	LAPKmax 	LASmax  
+	[YYYY-MM-DD]	[hh:mm:ss]	[YYYY-MM-DD]	[hh:mm:ss]	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    	[dB]    
+	2016-04-13  	12:13:48  	2016-04-13  	12:14:18  	77,1    	90,0    	78,4    	74,2    	72,0    	86,6    	73,2    

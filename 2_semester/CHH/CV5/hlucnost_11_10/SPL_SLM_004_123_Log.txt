@@ -1,0 +1,35 @@
+XL2 Broadband Logging:		CHH2016\SPL_SLM_004_123_Log.txt                                                
+----------------------
+
+
+# Hardware Configuration
+	Device Info:    	XL2, SNo. A2A-02094-C0, FW3.02
+	Mic Type:       	NTi Audio M2210, SNo. 1368, User calibrated 2015-12-16  12:34
+	Mic Sensitivity:	21,4 mV/Pa
+
+# Measurement Setup
+	Profile:        	Full mode
+	Timer mode:     	single
+	Timer set:      	00:00:30
+	Log-Interval:   	00:00:05
+	k1:             	0,0 dB
+	k2:             	0,0 dB
+	kset Date:      	k-Values not measured (manually adjusted)
+	Range:          	10 - 110 dB
+
+# Time
+	Start:          	2016-04-13, 12:08:38
+	End:            	2016-04-13, 12:09:08
+
+# Broadband LOG Results
+	Date        	Time      	Timer     	LZeq_dt 	LZeq    	LZFmax_dt	LZPKmax_dt	Pause   
+	[YYYY-MM-DD]	[hh:mm:ss]	[hh:mm:ss]	[dB]    	[dB]    	[dB]     	[dB]      	        
+	2016-04-13  	12:08:43  	00:00:25  	55,4    	55,4    	61,5     	68,5      	        
+	2016-04-13  	12:08:48  	00:00:20  	56,5    	56,0    	65,2     	76,0      	        
+	2016-04-13  	12:08:53  	00:00:15  	51,4    	54,9    	59,8     	65,4      	        
+	2016-04-13  	12:08:58  	00:00:10  	49,3    	54,1    	53,7     	62,3      	        
+	2016-04-13  	12:09:03  	00:00:05  	49,3    	53,4    	54,4     	65,7      	        
+	2016-04-13  	12:09:08  	00:00:00  	50,5    	53,1    	53,1     	61,2      	        
+
+# Broadband LOG Results over whole log period
+	2016-04-13  	12:09:08  	00:00:00  	53,1    	53,1    	65,2     	76,0      	        
