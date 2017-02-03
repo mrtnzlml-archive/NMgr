@@ -1,0 +1,20 @@
+Good afternoon.
+For those of you who don't know me already, my name is Martin Zlámal and my field of study is Environmental Engineering here at this university.
+
+Title of my presentation is Denoising of UHF Signals based on RBPF and the Localization of PD Sources using FDTD Method in Power Transformer.
+As you can see it has very complicated official title.
+But it can be simplified to this: Denoising of Signals and the Localization of PD Sources.
+It says everything but I am sure it can be still very complicated and I would like to go though this title and explain what's going on here.
+
+If you have  any questions during my presentation, please ask them immediately, because it can be quite complicated topic.
+There will also be time at the end of my presentation.
+
+Before concluding, I'd like to sum up the key points again.
+
+I'd like to finish my presentation with few words about the results and the future.
+This project has become the winner of the ABB University Award 2015 in the Czech Republic.
+Despite of this success...
+
+Thank you very much for listening.
+It was pleasure to be here and if you have any questions, I'd be happy to answer them.
+
