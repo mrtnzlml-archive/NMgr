@@ -1,0 +1,19 @@
+deni vwen RA= 97.33
+denni stena RA= 97,37
+smisene vwen RA= 97,31
+smisene stena RA= 97.43
+umele vwen RA= 81.93
+umele stena RA= 82.67
+
+zarovka60W RA= 99.72
+kompakt pleomax 9W RA= 85.56
+kompakt osram 13w RA= 82.55
+LED party bulb RA= 85.79
+zarovka 40w RA= 99.74
+kompakt philips 8w RA= 83.74
+no name 8w RA= 67.02
+kompakt osram 11w RA= 82.86
+bodovka philips 60w RA= 99.31
+LED no name RA= 63.25
+LED conrad 1,8w RA= 79.73
+kompakt volant osram 18w RA= 86.08
