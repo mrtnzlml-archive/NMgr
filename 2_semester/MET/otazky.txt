@@ -1,0 +1,63 @@
+1. Stručný přehled historie měření a metrologie (starověk, středověk, 16., 17., 18., 19., 20. století ve světě a historie metrologie v Českém státě).
+
+2. Dělení  metrologie, základní úkoly metrologie, zdroje aktuálních informací.
+
+3. Národní metrologický systém, organizace metrologie v ČR, normy z oblasti metrologie, metodické pokyny a technické požadavky, mezinárodní předpisy.
+
+4. Zákon o metrologii v platném znění, hlavní části a paragrafy.   
+
+5. Vládní nařízení a vyhlášky vztahující se k metrologii: podrobněji vyhl. MPO 262/2000 Sb. v platném znění, kterou se zajišťuje jednotnost a správnost měřidel a měření  a vyhl. MPO 345/2002 Sb. v platném znění, kterou se stanoví měřidla k povinnému ověřování a měřidla podléhající schválení typu - obsah paragrafů a příloh.
+
+6. Mezinárodní metrologický slovník (VIM3), členění, terminologie, příklady pojmů (TNI 01 0115).
+
+7. Měřicí prostředky, jejich dělení, evidence; pojmy akreditace, autorizace, certifikace.
+
+8. Metrologie a ŘJ ve výrobním procesu a službách: přehled zákonů a norem vztahující se k metrologii a ŘJ.
+
+9. Metrologický (měrový) pořádek (úkoly pro jeho zabezpečení) a řád organizace (popis jednotlivých částí).
+
+10. Metrologická pracoviště: prostorové podmínky, přístrojové  vybavení, kvalifikace pracovníků.
+
+11. Mezinárodní soustava veličin ISQ: jejich dělení, 4 typy rovnic, rozměr veličiny, příklady rozměru veličiny, norma ČSN ISO
+
+12. Mezinárodní soustava jednotek SI: vyhl. MPO 264/2000 Sb. v platném znění, o základních měřicích jednotkách a ostatních jednotkách a o jejich označování, definice zákl. jednotek, násobky, díly, ostatní druhy používaných jednotek.
+
+13. Dělení chyb podle příčin vzniku, zdrojů, způsobu výskytu, chyby náhodné.
+
+14. Chyby metod měření a měřicích přístrojů (analogových a digitálních).
+
+15. Nejistoty měření: druhy, jejich stanovení, zápis výsledku měření.
+
+16. Měřicí metody: jejich porovnání, speciální metody, návaznost etalonů a měřidel (příklad pro některou veličinu).
+
+17. Principy etalonáže: základní pojmy, dělení etalonů  - podle přesnosti, uspořádání a regionu, terminologie, přehled státních etalonů.
+
+18. Metody a prostředky etalonáže délky: vývoj, současnost, státní etalon, sekundární etalon.
+
+19. Metody a prostředky etalonáže hmotnosti: vývoj a současnost v ČR, státní etalon, sekundární etalony, navazování etalonů hmotnosti (digitální a analogové měření).
+
+20. Metody a prostředky etalonáže svítivosti: definice, princip státního etalonu, jednotky světelného toku, svítivosti, jasu, osvětlení, sekundární etalony, měření svítivosti.
+
+21. Metody a prostředky etalonáže času: definice, využití, vývoj (čas astronomický, efemeridní, světový, pásmový), současnost (2 přístupy, etalon státní a světový, sekundární etalony,  jednotky).
+
+22. Metody a prostředky etalonáže teploty: pojmy teplo a teplota, vývoj měřicích prostředků a stupnic, ITS 90 – stav pevných bodů, základní rozsahy, státní etalon, definiční body ITS-90 a jejich realizace, přepočty stupnic.
+
+23. Metody a prostředky etalonáže proudu: definice jednotky, převodní koeficient (proudové váhy, atomové měření).
+
+24. Primární etalony napětí: princip Josephsonova jevu, 3 základní jevy, 3 druhy kontaktů, Josephsonova konst., V-A charakteristika, realizace, státní etalon.
+
+25. Primární etalony odporu: KHJ, podélný odpor, příčný Hallův odpor, von Klitzingova konst., realizace jevu, státní etalon.
+
+26. Primární etalony el. impedance (el. kapacity – Thomson-Lampardův teorém), metrologický trojúhelník a kvantové etalony (vztahy mezi U, I , f;  mezi U, I, R;  mezi veličinami a fundamentálními konstantami). 
+
+27. Sekundární etalony napětí: 2 typy Westonových článků, jejich základní vlastnosti, hystereze, polovodičové etalony.
+
+28. Etalony pasivních veličin: etalony odporu pro ss a st proud (vlastnosti, materiál, typ uspořádání, náhradní schéma, fázorový diagram a vztahy, realizace etalonů). 
+
+29. Etalony vlastní a vzájemné indukčnosti: vlastnosti, fázorové diagramy, náhradní schéma, vztahy, realizace etalonů.
+
+30. Provedení etalonů kapacity (vlastnosti, fázorový diagram, náhradní schéma, vztahy, uspořádání, státní etalon) a transferové etalony odporu (schéma zapojení, vztahy, výhoda použití).
+
+31. Určování intervalů ověřování a kalibrací el. měř.přístrojů: legislativa, pojmy - ověřování a  kalibrace, stanovení doby platnosti, kritéria a faktory ovlivňující rekalibrační lhůty, zodpovědnost, metody určování rekalibrace u přístrojů stacionárních a nestacionárních.
+
+ 32. Analýza systémů měření (MSA): zdroje variability, charakteristiky základní a kombinované (R&R měřidla, strannost & linearita, ukazatele způsobilosti Cg a Cgk).
